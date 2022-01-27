@@ -20,6 +20,15 @@ body{
     margin-top:80px; display:flex; flex-direction:column;
     align-items:center;
 }
+.controls .controls__range :first-child{
+    display:inline-block; width:100px;
+}
+.controls .controls__range :nth-child(2){
+    display:inline-block; width:20px;
+}
+.controls .controls__range :last-child{
+    display:inline-block; width:300px;
+}
 .controls .controls__btns{ margin-bottom:30px;}
 .controls__btns button{ all:unset;cursor:pointer; background-color:white;
     padding: 5px 0; width: 80px;text-align: center; border-radius:5px;
