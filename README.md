@@ -8,4 +8,4 @@
 4. 그린 그림을 다운받기
 
 ## 그림판을 이용할 수 있는 링크
-https://onetaek.github.io/paintjs/
+https://onetaek.github.io/paint-js-project/
